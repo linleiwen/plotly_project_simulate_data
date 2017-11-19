@@ -1,1 +1,2 @@
-# plotly_project_simulate_data
+# simulate finance time serial data visulizaition
+
